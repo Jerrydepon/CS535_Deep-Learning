@@ -11,3 +11,5 @@ HW3: <br />
 Pytorch CIFAR-10 Image Classification.
 
 -----------------
+Final report: <br />
+Handcrafted Descriptors and Learned Descriptors
